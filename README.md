@@ -15,6 +15,9 @@ Using the np.linalg.inv(), we can find the solutions.
 End the program
 ## Program:
 ```
+Developed by: DIVYA.A
+Register Number: 212222230034
+
 import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 inverse=np.linalg.inv(A)
